@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="card정렬.c">
+    <ClCompile Include="search_and_array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
